@@ -9,6 +9,11 @@ Stock Market History Project
 
 
 ## Project Set-Up
+Stock Market API [To access API Key]
+```yaml
+http://api.marketstack.com/v1
+```
+
 Install Android Studio Latest Version [Android Studio Chipmunk | 2021.2.1 Patch 2]
 ```yaml
 https://developer.android.com/studio
